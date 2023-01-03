@@ -1,6 +1,6 @@
 # Premier League Magic 8-ball 
 
-## A Codeacademy project within the Full Stack Engineer Career Path
+## A Codeacademy project
 
 **This README will be updated as the project develops**
 
