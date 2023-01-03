@@ -12,6 +12,6 @@ This app will create a random string output to the terminal upon every run, vari
 
 or
 
-- *"Brenth are in nth postion, best not to think about it."*
+- *"Brentford are in nth postion, best not to think about it."*
 
 
