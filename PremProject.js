@@ -30,8 +30,8 @@ const getQuote = (speakBad, speakGood, indexOfRLeaguePosition) => {
     return result
 }
 
-const printRandomString = () => console.log(`${rClubNamme} is in ${rleaguePosition}, ${getQuote(speakBad, speakGood, indexOfRLeaguePosition)}`)
+const printRandomString = () => `${rClubNamme} is in ${rleaguePosition}, ${getQuote(speakBad, speakGood, indexOfRLeaguePosition)}`
 
 
 
-printRandomString()
+console.log(printRandomString())
